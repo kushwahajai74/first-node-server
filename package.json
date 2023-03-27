@@ -1,0 +1,20 @@
+{
+  "name": "first-node-server",
+  "version": "1.0.0",
+  "description": "our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushwahajai74/first-node-server.git"
+  },
+  "author": "kushwahajai74",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushwahajai74/first-node-server/issues"
+  },
+  "homepage": "https://github.com/kushwahajai74/first-node-server#readme"
+}
