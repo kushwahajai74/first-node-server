@@ -4,7 +4,8 @@
   "description": "our first node.js server",
   "main": "server.js",
   "scripts": {
-    "start" : "node server.js"
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
 
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kushwahajai74/first-node-server/issues"
   },
-  "homepage": "https://github.com/kushwahajai74/first-node-server#readme"
+  "homepage": "https://github.com/kushwahajai74/first-node-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
